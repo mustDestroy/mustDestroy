@@ -5,9 +5,8 @@ This is my Git page demonstrating my skills and interests in the field of Softwa
 - 🚀 I'm currently working on an extensive Data Science project.  Jump to disocer my journey in Machine Learning []().
 - 🌱 My primal goals are learning Python, Data Analytics and Statistics.
 - 🔎 Jump to discover my previous project [mustDestroy/BirdAdventure](https://github.com/mustDestroy/BirdAdventure). 
-- ⚡ FYI: I am looking for an opportunity to write the thesis for my Master's studies in the field of agentic AI or ML.
+- ⚡ FYI: I am looking for an opportunity to write thesis for my Master's degree in the field of agentic AI or ML.
 
-<br>
 <br>
 
 # 🛠️ Technologies & Tools
@@ -31,7 +30,7 @@ This is my Git page demonstrating my skills and interests in the field of Softwa
 - MSSQL Studio
 - DBeaver
 
-Thanks for visiting! 
+Thanks for visiting! <br>
 💖🤙💪
 
 
