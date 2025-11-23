@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-My name is Dominik!<br>
 This is my Git page demonstrating my skills and interests in the field of Software Engineering.
 
 - 🚀 I'm currently working on an extensive Data Science project.  Jump to disocer my journey in Machine Learning []().
 - 🌱 My primal goals are learning Python, Data Analytics and Statistics.
-- 🤔 I’m looking for a thesis project to finish my Master's degree in Software Engineering. 
 - 🔎 Jump to discover my previous project [mustDestroy/BirdAdventure](https://github.com/mustDestroy/BirdAdventure). 
 - ⚡ FYI: I am looking for an opportunity to write the thesis for my Master's studies in the field of agentic AI or ML.
 
