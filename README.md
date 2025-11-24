@@ -2,7 +2,7 @@
 
 This is my Git page demonstrating my skills and interests in the field of Software Engineering.
 
-- 🚀 I'm currently working on an extensive Data Science project.  Jump to disocer my journey in Machine Learning []().
+- 🚀 I'm currently working on an extensive Data Science project. Jump to discover my journey in Data Analytics & Machine Learning [mustDestroy/LoanApproval](https://github.com/mustDestroy/LoanApproval).
 - 🌱 My primal goals are learning Python, Data Analytics and Statistics.
 - 🔎 Jump to discover my previous project [mustDestroy/BirdAdventure](https://github.com/mustDestroy/BirdAdventure). 
 - ⚡ FYI: I am looking for an opportunity to write thesis for my Master's degree in the field of agentic AI or ML.
